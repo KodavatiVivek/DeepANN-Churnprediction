@@ -76,19 +76,7 @@ ipython_config.py
 pylint-report.txt
 pylint-output.txt
 
-# Model & data files
-*.h5
-*.hdf5
-*.pkl
-*.joblib
-*.npy
-*.npz
-*.csv
-*.tsv
-*.log
 
-# Streamlit cache
-.streamlit/
 
 # Logs & dumps
 *.log
